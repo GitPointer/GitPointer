@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/Gitpointer/Gitpointer/master/read_me_header.png "Header")](https://github.com/GitPointer)
+[![Header](https://raw.githubusercontent.com/Gitpointer/Gitpointer/master/read_me_header.jpg "Header")](https://github.com/GitPointer)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
