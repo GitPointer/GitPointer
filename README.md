@@ -1,3 +1,6 @@
+<meta name="title" content="GitPointer (X@Pointer) · GitHub">
+<meta name="description" content="GitPointer has 18 repositories available. Follow their code on GitHub.">
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/4018280?s=400&u=06cc2fcad16fed13ca7a155f2c713add8f4ce5af&v=4">
 
 [![Header](https://raw.githubusercontent.com/Gitpointer/Gitpointer/master/read_me_header.jpg "Header")](https://github.com/GitPointer)
 
