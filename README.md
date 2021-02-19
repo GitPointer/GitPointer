@@ -21,7 +21,8 @@ My name is Vikas Tandon and I'm a software engineer. I'm from India, living in J
 </a>
 
 ## &#x1f4c8; Stackoverflow Stats
-![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1081909)
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1081909&theme=dark)
+
 
 
 <h3 align="left">Connect with me:</h3>
