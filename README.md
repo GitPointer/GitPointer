@@ -20,6 +20,9 @@ My name is Vikas Tandon and I'm a software engineer. I'm from India, living in J
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitPointer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitPointer's GitHub Stats" />
 </a>
 
+## &#x1f4c8; Stackoverflow Stats
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1081909)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
