@@ -16,7 +16,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GitPointer&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPointer&hide=html&layout=compact&theme=highcontrast" />
  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![](./profile-3d-contrib/profile-south-season-animate.svg)
  
  </details>
 
