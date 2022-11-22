@@ -20,7 +20,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GitPointer&count_private=true&show_icons=true&theme=onedark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPointer&layout=compact&hide=css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,&langs_count=8&theme=onedark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPointer&hide=css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,&langs_count=8&theme=onedark&margin-w=10" />
 </div>
 
 ## 🔧 Technologies & Tools
